@@ -1,0 +1,24 @@
+# Release binaries belong in GitHub Releases, not Git history.
+*.exe
+*.msi
+*.zip
+*.7z
+*.sha256
+# Never commit signing secrets.
+*.key
+*.pem
+*.pfx
+*.p12
+*.p8
+.env
+.env.*
+private*
+# Local build/editor files.
+build/
+out/
+.vs/
+.vscode/
+__pycache__/
+*.log
+Thumbs.db
+.DS_Store

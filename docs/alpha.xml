@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>NJE Alpha updates</title>
+    <link>https://nil0s.github.io/NJE-Releases/</link>
+    <description>Signed NJE Alpha releases</description>
+    <language>en</language>
+    <item>
+      <title>NJE Alpha 2.1.0.2</title>
+      <sparkle:version>2.1.0.2</sparkle:version>
+      <sparkle:releaseNotesLink>https://nil0s.github.io/NJE-Releases/release-notes-2.1.0.2.html</sparkle:releaseNotesLink>
+      <sparkle:minimumSystemVersion>10.0.17763</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 28 Oct 2026 14:43:43 +0000</pubDate>
+      <enclosure url="https://github.com/Nil0s/NJE-Releases/releases/download/v2.1.0.2-alpha/NJE_Setup_2.1.0.2.exe" length="9275119" type="application/octet-stream" sparkle:version="2.1.0.2" sparkle:shortVersionString="Alpha 2.1.0.2" sparkle:edSignature="znoJ6sE6wTldutnqGR/is4zh3O9w1Y17kPnlBDHeSJf4wmFK69cc9LmjOGrWbEAmLNOFR540qkPcKvTtYaQ6AA==" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTART" />
+    </item>
+  </channel>
+</rss>
